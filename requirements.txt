@@ -5,7 +5,7 @@ django-cache-url>=0.8.0
 django-localflavor-us>=1.1
 django-nose>=1.4,<1.5
 djangorestframework>=3.1.1,<3.2
--e https://github.com/revpoint/jangl-utils
+-e git+https://github.com/revpoint/jangl-utils.git#egg=jangl-utils
 nose>=1.3,<1.4
 prettyconf>=0.2.0
 pytz>=2015.2
