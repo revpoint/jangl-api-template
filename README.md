@@ -1,4 +1,5 @@
-= Jangl API Template for Django 1.8
+Jangl API Template for Django 1.8
+---
 
 To create a project with template, make sure you have Django 1.8 installed and type the following command:
 ```
